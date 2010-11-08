@@ -3,7 +3,10 @@ VHD
 
 VHD is a simple command line utility to mount and unmount virtual hard drives (.vhd files).
 
+Note: requires installation of Hyper-V role.
+
 See: http://msdn.microsoft.com/en-us/library/cc136845%28v=VS.85%29.aspx
 
 See also: http://code.msdn.microsoft.com/VHDShellExt
+
 For a shell integrated utiltity see: http://www.jmedved.com/default.aspx?page=vhdattach
